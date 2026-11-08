@@ -18,5 +18,6 @@ Backend, серверы и всё, что должно не падать ноч�
 
 | Проект | Что это |
 |---|---|
+| [infinity-xray](https://github.com/InfinityLabs-LTD/infinity-xray) | Серверная сборка Xray: keepalive для тихих соединений, governor HTTP/2 для XHTTP и диагностика mux |
 | [infinity-scanblock](https://github.com/BloodyBaronDev/infinity-scanblock) | Отсекает сканеры интернета на входе в сервер: публичные списки, ipset и iptables |
 | [InfinityCreate](https://github.com/BloodyBaronDev/InfinityCreate) | Платформа продажи цифровых услуг: витрина, кабинет клиента, чат, оплаты и CMS |

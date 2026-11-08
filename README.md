@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a0505,50:7a1f0c,100:e8590c&text=Bloody%20Baron&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=%D0%A2%D0%B8%D1%85%D0%B8%D0%B9%20%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C%2C%20%D0%B4%D0%BE%D0%BB%D0%B3%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%B4&descAlignY=58&descSize=18" alt="Bloody Baron: тихий огонь, долгий код" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1a0505,50:7a1f0c,100:e8590c&text=Bloody%20Baron&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=%D0%97%D0%BB%D0%BE%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D0%B7%D0%BB%D0%BE&descAlignY=58&descSize=18" alt="Bloody Baron: зло — это зло" width="100%" />
 
 🔥 **Строю сервисы, которые работают, пока все спят** 🌙
 

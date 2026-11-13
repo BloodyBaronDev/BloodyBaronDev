@@ -23,6 +23,7 @@
 |---|---|---|
 | ⚡ [infinity-xray](https://github.com/BloodyBaronDev/infinity-xray) | Серверная сборка Xray: keepalive для тихих соединений, governor HTTP/2 для XHTTP и диагностика mux | Xray-core, Docker |
 | 🛡️ [infinity-scanblock](https://github.com/BloodyBaronDev/infinity-scanblock) | Отсекает сканеры интернета на входе в сервер: публичные списки, ipset и iptables | Bash, systemd |
+| 🧲 [xray-torrent-guard](https://github.com/BloodyBaronDev/xray-torrent-guard) | Ловит BitTorrent на VPN/прокси-нодах и по access-логу Xray находит, какой пользователь качает. HTTP API и webhook | Rust |
 
 🔒 Остальная работа живёт в приватных репозиториях.
 
@@ -31,6 +32,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
